@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/splunk.es/commit/d72a10b4e972abc8fe7e173d17914409a1c8cf89",
       "git:hexsha": "d72a10b4e972abc8fe7e173d17914409a1c8cf89",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T15:37:07.355881+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/splunk.es/commit/265d5811f726394bdaeb7b12256262119b032ee1",
