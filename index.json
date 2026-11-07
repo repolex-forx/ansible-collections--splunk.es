@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "splunk.es",
+  "versions": [
+    {
+      "commit": "d72a10b4e972abc8fe7e173d17914409a1c8cf89",
+      "tag": "",
+      "parsed_at": "2026-11-07T15:37:07.356418+00:00"
+    }
+  ]
+}
